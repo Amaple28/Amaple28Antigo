@@ -4,7 +4,7 @@
 ##
 ### Olá, seja bem vindo! ✨
 Desenvolvedora Web Junior recém formada (Técnico de Informática) trabalhando com PHP, Laravel, JS.
-- 💻 Atualmente estou cursando Sistemas de Informação 
+- 💻 Atualmente estou cursando Sistemas de Informação.
 - 🤝🏾 Estou sempre buscando participar de projetos inovadores para ampliar meus conhecimentos. 
 
 

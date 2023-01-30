@@ -6,6 +6,11 @@ Desenvolvedora Web Junior recém formada (Técnico de Informática) trabalhando 
 - 💻 Atualmente estou cursando Sistemas de Informação 
 - 🤝🏾 Estou sempre buscando participar de projetos inovadores para ampliar meus conhecimentos. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Amaple28)
+
+<div align="center">
+  <a href="https://github.com/Amaple28">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amaple28&show_icons=true&theme=aura&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaple28&langs_count=7&theme=aura&count_private=true"/>
+</div>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maisa-rodrigues-674a2a218/) 
